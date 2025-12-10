@@ -6,6 +6,9 @@ It provides a fast, app-like shopping experience with server-driven data, centra
 This repository contains **public documentation, roadmap, project status, and updates**.  
 The core source code is maintained privately while the project evolves.
 
+## 🔥 Upcoming Demo
+A high-performance demo is scheduled for **January 1st, 2025** (target date).
+
 ---
 
 ## 🚀 Features Overview
