@@ -1,13 +1,21 @@
 # PWE — Public Overview
 
-PWE is a modern **Next.js Progressive Web App** designed to integrate seamlessly with any existing **e-commerce platform**.  
-It provides a fast, app-like shopping experience with server-driven data, centralized management, and support for both single-store and multi-store environments.
+🌐 **Live Public Demo**  
+👉 https://demo1.pw-e.com/
 
-This repository contains **public documentation, roadmap, project status, and updates**.  
-The core source code is maintained privately while the project evolves.
+> Public demo showcasing the core shopping experience.  
+> Runs on a test environment — no real payments are processed.
 
-## 🔥 Upcoming Demo
-A high-performance demo is scheduled for **January 1st, 2025** (target date).
+---
+
+## 📦 Project Overview
+
+PWE is a modern **Next.js Progressive Web App** designed to integrate seamlessly with any existing e-commerce platform.
+
+It provides a fast, app-like shopping experience with **server-driven data**, **centralized management**, and support for both **single-store** and **multi-store** environments.
+
+This repository contains **public documentation**, **roadmap**, **project status**, and **updates**.  
+The **core application source code is maintained privately** while the project evolves.
 
 ---
 
